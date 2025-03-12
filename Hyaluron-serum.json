@@ -1,0 +1,480 @@
+{
+  "keys": ["not yet"],
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "Garnier Hyaluron Serum",
+  "rpc": "not yet",
+  "dateOnSaleFrom": null,
+  "owner": "estore",
+  "contents": [
+    {
+      "name": "Garnier Hyaluron Serum",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/KV-mobile.jpg",
+                "element": "img",
+                "alt": "Hyaluron Serum",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/KV.jpg",
+                "element": "img",
+                "alt": "Hyaluron Serum",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "<h2>Skóra jest <span style=\"color:#044b72;font-weight:bold\">jędrniejsza<sup style=\"font-size:13px\">2</sup>,<br> gładsza i bardziej miękka<sup style=\"font-size:13px\">3</sup>.</span></h2>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px",
+                  "marginBottom": "20px",
+                  "maxWidth": "75%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p style=\"font-weight:bold;text-transform:uppercase;margin-bottom: 0px\">Po 1 godzinie</p><p>Skóra jest ujędrniona, a bariera ochronna wzmocniona<sup style=\"font-size:13px\">1</sup>.</p><br><p style=\"font-weight:bold;text-transform:uppercase;margin-bottom: 0px\">Od 2 dnia</p><p>Zaczyna się odbudowa bariery ochronnej<sup style=\"font-size:13px\">1</sup>.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "19px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-02.jpg",
+                "element": "img",
+                "alt": "Efekty",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "header",
+                "value": "<div><h2>Intensywne nawilżenie <br>dzięki <span style=\"color:#0a4b70;font-weight:bold\">kwasowi<br> hialuronowemu<span></h2></div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px",
+                  "maxWidth": "75%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "17px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-03.jpg",
+                "element": "img",
+                "alt": "Kwas hialuronowy",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "<h2><span style=\"color:#0a4b70;font-weight:bold\">Skuteczna</span> formuła</h2>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px",
+                  "maxWidth": "75%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p><span style=\"text-transform:uppercase;color:#0a4b70;font-weight:bold\">kwas hialuronowy - </span>Pozyskiwany biotechnologiczne, potężny składnik nawilżający, który jest zdolny związać 1000x więcej wody niż sam waży.</p><p><span style=\"text-transform:uppercase;color:#0a4b70;font-weight:bold\">pantenol - </span>Wspomaga naprawę bariery ochronnej skóry, aby zapobiec utracie wody.</p><p><span style=\"text-transform:uppercase;color:#0a4b70;font-weight:bold\">skwalan - </span>Znany z właściwości wzmacniających barierę ochronną skóry.</p><p><span style=\"text-transform:uppercase;color:#0a4b70;font-weight:bold\">ekstrakt z aloesu -  </span>Składnik, który intensywnie nawilża skórę.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "17px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-04.jpg",
+                "element": "img",
+                "alt": "Podkład Super Stay Lumi Matte",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "header",
+                "value": "<h2>Rutyna<span style=\"color:#0a4b70;font-weight:bold\"> pielęgnacyjna<span></h2>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px",
+                  "maxWidth": "75%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p><span style=\"text-transform:uppercase;color:#0a4b70;font-weight:bold\">Krok 1</span><br>Nałóż serum na oczyszczoną skórę twarzy.</p><p><span style=\"text-transform:uppercase;color:#0a4b70;font-weight:bold\">Krok 2 </span><br>Rano nałóż krem z filtrem przeciwsłonecznym, a wieczorem krem-żel nawilżający.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "17px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-05.jpg",
+                "element": "img",
+                "alt": "Rutyna",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Odkryj gamę Hyaluron",
+                "element": "h2",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "26px",
+                  "fontWeight": "bold",
+                  "color": "#0a4b70",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "Nawilżaj, ujędrniaj i wzmacniaj barierę ochronną skóry.",
+                "element": "p",
+                "properties": { "text-align": "center", "font-size": "22px" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-06.jpg",
+                "element": "img",
+                "alt": "Esencja, serum, krem, spf",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-06-mobile.jpg",
+                "element": "img",
+                "alt": "Gama Hyaluron",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Esencja nawilżająca",
+                "element": "h6",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "0.9rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top:-15px;\">Zapewnia do 100 godzin<sup style=\"font-size:13px\">1</sup> nawilżenia <br>i wspomaga odbudowę bariery <br>ochronnej skóry.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Nanieś produkt na oczyszczoną skórę<br> twarzy za pomocą dłoni lub wacika.</p></div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "13px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "http://localhost:8000/images/MOD-06-A.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Serum odbudowujące",
+                "element": "h6",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "0.9rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;;margin-top:-15px\">Serum stworzone dla skóry wrażliwej, aby intensywnie nawilżyć do 24 godzin<sup style=\"font-size:13px\">2</sup>, ujędrnić<sup style=\"font-size:13px\">3</sup> i wzmocnić barierę ochronną skóry<sup style=\"font-size:13px\">2</sup>.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Nałóż 1 pełną pipetę na oczyszczoną <br>skórę twarzy i okolic oczu.</p></div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "13px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "http://localhost:8000/images/MOD-06-B.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Krem kojący",
+                "element": "h6",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "0.9rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;;margin-top:-15px\">Nawilża do 48 godzin i regeneruje barierę <br>ochronną skóry<sup style=\"font-size:13px\">4</sup>.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Stosuj rano aby nawilżyć skórę, oraz wieczorem, <br>aby ją odżywić i zregenerować.</p></div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "13px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "http://localhost:8000/images/MOD-06-C.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "",
+                "element": "h2",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div style=\"text-align: center\"><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">1</sup> Test aparaturowy, 24 osoby.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">2</sup> Badanie kliniczne, 40 osób.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">3</sup> Test konsumencki, 48 osób.</p></div>",
+                "element": "DangerHtml",
+                "properties": {}
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
