@@ -1,9 +1,11 @@
 {
-  "keys": ["not yet"],
+  "keys": [
+    "garnier/skin-naturals-hyaluronic-aloe-serum-nawilzajace-z-kwasem-hialuronowym/"
+  ],
   "type": 0,
   "language": "pl-PL",
   "campaign": "Garnier Hyaluron Serum",
-  "rpc": "not yet",
+  "rpc": "GAR06895",
   "dateOnSaleFrom": null,
   "owner": "estore",
   "contents": [
